@@ -14,7 +14,8 @@ related to the latitude, and as expected it goes up as we move towards the equat
 with r being positve 0.8.
 
 3. While threr are clear and quite close correlation between the temperature and latitude the other weather factors doesn't seem 
-depndent or even correlated with latitude with r value being very low. And as can also be seen from the scatter plots for humidity,
+depndent or even correlated with latitude with r value being very low except for cloudiness in the southern hemisphere which
+does seem to have some realtion with latitude. And as can also be seen from the scatter plots for humidity,
 wind speed and cloudiness.The analysis does gives a clear outline that these weather fcators need to be further analysed to reach any 
 specific conclusions.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
