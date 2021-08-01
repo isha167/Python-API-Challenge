@@ -13,8 +13,8 @@ closely correlated to latitude. The r value for the northere hemisphere being -0
 related to the latitude, and as expected it goes up as we move towards the equator.While it's the opposite with southern hemisphere 
 with r being positve 0.8.
 
-3. While threr are clear and quite close correlation between the temperature and latitude the other weather factors doesn't seem 
-depndent or even correlated with latitude with r value being very low except for cloudiness in the southern hemisphere which
+3. While there are clear and quite close correlation between the temperature and latitude the other weather factors doesn't seem 
+dependent or even correlated with latitude with r value being very low except for cloudiness in the southern hemisphere which
 does seem to have some realtion with latitude. And as can also be seen from the scatter plots for humidity,
 wind speed and cloudiness.The analysis does gives a clear outline that these weather fcators need to be further analysed to reach any 
 specific conclusions.
