@@ -3,11 +3,21 @@
 ## ANALYSIS
 ------------
 Three analysis that can be concluded on the basis of data analysis in weatherpy.ipynb file are:
+
 1.Through the scatterplot of Latitude vs. Temperature Plot we can see that there is relationship between the temperature and latitude 
 the temprature tends to reduce or get colder as we move towards the poles and is significantlly higher for the cities 
 closer to the equator(0 degree latitude) and nearby latitudes
 
-2.
+2. Through the liner regression of tempratuer in northern hemisphere and southern hemisphere we can seee that the temperature is quite 
+closely correlated to latitude. The r value for the northere hemisphere being -0.62 indicating the temperature is inversely 
+related to the latitude, and as expected it goes up as we move towards the equator.While it's the opposite with southern hemisphere 
+with r being positve 0.8.
+
+3. While threr are clear and quite close correlation between the temperature and latitude the other weather factors doesn't seem 
+depndent or even correlated with latitude with r value being very low. And as can also be seen from the scatter plots for humidity,
+wind speed and cloudiness.The analysis does gives a clear outline that these weather fcators need to be further analysed to reach any 
+specific conclusions.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part I - WeatherPy
 
@@ -64,10 +74,10 @@ For this part of assignment,I did the following:
 * Plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 ------------------------------------------------------------------------------------------------------------------------------
 ### Techonolgy Used:
-Python
-Python Libraries
-Google APIs
-OpenWeatherMap APIs
+Python,
+Python Libraries,
+Google APIs,
+OpenWeatherMap APIs,
 Jupyter Notebook
 
 
