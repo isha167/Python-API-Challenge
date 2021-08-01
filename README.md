@@ -8,7 +8,7 @@ Three analysis that can be concluded on the basis of data analysis in weatherpy.
 the temprature tends to reduce or get colder as we move towards the poles and is significantlly higher for the cities 
 closer to the equator(0 degree latitude) and nearby latitudes
 
-2. Through the liner regression of tempratuer in northern hemisphere and southern hemisphere we can seee that the temperature is quite 
+2. Through the linear regression of temprature in northern hemisphere and southern hemisphere we can seee that the temperature is quite 
 closely correlated to latitude. The r value for the northere hemisphere being -0.62 indicating the temperature is inversely 
 related to the latitude, and as expected it goes up as we move towards the equator.While it's the opposite with southern hemisphere 
 with r being positve 0.8.
